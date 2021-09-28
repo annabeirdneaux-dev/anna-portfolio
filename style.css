@@ -1,6 +1,6 @@
 
 /* Set consistent font and alignment for the page elements */
-h1, h2, h3, p, ul, a{
+h1, h2, h3, p, a{
   font-family: sans-serif;
    text-align: center
 }
