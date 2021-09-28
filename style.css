@@ -13,21 +13,14 @@ h1, h2, h3, p, ul, a{
   width: 10%;
 }
 
-/*Center bulleted list*/
-ul {
-  text-align: center;
+/*List styling*/
+ul, ol {
   width: 300px;
   margin: auto;
   padding: 10px;
+  font-family: sans-serif;
 }
 
-/* Center numbered list */
-ol {
-  text-align: center;
-  width: 300px;
-  margin: auto;
-  padding: 10px;
-}
 /*Background, border and padding for main element*/
 main {
   background-color: #b2d8d8;
